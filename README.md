@@ -1,7 +1,7 @@
 # Mood predictions based on personal data analytics.
 
 [![PyPI - Python](https://img.shields.io/pypi/pyversions/iconsdk?logo=pypi)](https://pypi.org/project/iconsdk)
-
+[1]: http://www.github.com/your_contact_info
 _The inspiration for this project was trying to find an answer to one of the eternal questions. ‘What is happiness?’ ‘What makes us happy?’ In my opinion, this is more of a philosophical question, but I chose to approach this from a more scientific point of view._ 
 
 ### Project Status
