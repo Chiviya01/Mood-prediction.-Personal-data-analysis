@@ -48,7 +48,7 @@ The inspiration for this project was trying to find an answer to one of the eter
 Project is: _complete_
 
 ## Project Components 
-1. 
+1. A project report. Includes the initial idea and inspiration of the project. Data collection with detailed description of data sources. EDA analysis including graphs and results with extensive explanations. Commercial potential. App design prototype. Ethical issues. Conclusions. References.
 
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
