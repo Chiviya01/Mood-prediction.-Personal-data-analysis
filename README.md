@@ -1,22 +1,11 @@
 # Mood predictions based on personal data analytics.
 
-
-python
-python
-3.7 | 3.8
-3.7 | 3.8
-
-## Table of contents
-* [General info](#general-info)
 ## Table of Contents
 * [General Info](#general-information)
 * [Inspiration](#inspiration)
-* [Usage](#usage)
+* [Project Components](#Project components)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-
-<!-- * [License](#license) -->
-
 
 ## General Information
 In this project, I tried to define happiness and depression from a more scientific point of view. 
