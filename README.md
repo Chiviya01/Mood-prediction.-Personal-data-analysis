@@ -31,15 +31,11 @@ Another use case is primarily aimed at identifying the user’s potential depres
 The inspiration for this project was trying to find an answer to one of the eternal questions. ‘What is happiness?’ ‘What makes us happy?’ In my opinion, this is more of a philosophical question, but I chose to approach this from a more scientific point of view.
 
 ## Project Components 
-#### 1. A project report. [a relative link](Report.pdf).
-	It includes the initial idea and inspiration of the project. Data collection with detailed description of data sources. EDA analysis including graphs and results with extensive explanations. Commercial potential. App design prototype. Ethical issues. Conclusions. References.
-#### 2. Jupyter Notebook. [a relative link](Mood_Analysis.ipynb). This python notebook includes all the relative code.
-#### 3. Dataset. The original dataset that is being used in the Jupyter notebook. 
+#### 1. A project report. [a relative link](Report.pdf). It includes the initial idea and inspiration of the project. Data collection with detailed description of data sources. EDA analysis including graphs and results with extensive explanations. Commercial potential. App design prototype. Ethical issues. Conclusions. References.
+#### 2. Jupyter Notebook. [a relative link](Mood_Analysis.ipynb). This python notebook includes all the relative code. All of the experiments including EDA, data encoding, feature engineering, synthesising additinal data, visualisations, machine learning. 
+#### 3. Dataset. [a relative link](personal_data_merged.csv) The original dataset that is being used in the Jupyter notebook. Detailed data description. 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-
-
-
-	
+My project started with a hypothesis about whether it is possible to make a person happier with the help of AI. I found this question quite childish and was relatively sceptical about the results. Nevertheless, the results of my research showed that this is a rather serious problem that affects millions of people, because even a prolonged state of apathy can lead to more severe mental illnesses, including depression.
+I found out that this is a complex and at the same time subjective problem. But despite this, my experiments have shown that this is a feasible task. I have obtained some useful insights and accuarte predictions for some of the mood states that can be found in the Report. 
+Since mood predictions is a very personal problem to reduce the risk of bias I would like to collect more data from other individuals so that I can conduct more efficient experiments. I also believe that professional experts in psychology and mental health are needed to solve this problem. After all, inaccurate AI predictions can only harm human health.
