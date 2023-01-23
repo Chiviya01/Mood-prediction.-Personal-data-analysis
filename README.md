@@ -31,10 +31,10 @@ Another use case is primarily aimed at identifying the user’s potential depres
 The inspiration for this project was trying to find an answer to one of the eternal questions. ‘What is happiness?’ ‘What makes us happy?’ In my opinion, this is more of a philosophical question, but I chose to approach this from a more scientific point of view.
 
 ## Project Components 
-### 1. A project report. [a relative link](Report.pdf).
+#### 1. A project report. [a relative link](Report.pdf).
 	It includes the initial idea and inspiration of the project. Data collection with detailed description of data sources. EDA analysis including graphs and results with extensive explanations. Commercial potential. App design prototype. Ethical issues. Conclusions. References.
-### 2. Jupyter Notebook. [a relative link](Mood_Analysis.ipnb). This python notebook includes all the relative code.
-### 3. Dataset. 
+#### 2. Jupyter Notebook. [a relative link](Mood_Analysis.ipynb). This python notebook includes all the relative code.
+#### 3. Dataset. The original dataset that is being used in the Jupyter notebook. 
 
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
