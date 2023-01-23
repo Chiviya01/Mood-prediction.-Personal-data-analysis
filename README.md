@@ -27,21 +27,13 @@ The initial idea of this project was to outline the factors that could possibly 
 One of the application of this project is to provide some insights in order to improve the user’s mood.
 Another use case is primarily aimed at identifying the user’s potential depression.
 
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
 ## Inspiration
 The inspiration for this project was trying to find an answer to one of the eternal questions. ‘What is happiness?’ ‘What makes us happy?’ In my opinion, this is more of a philosophical question, but I chose to approach this from a more scientific point of view.
 
-## Project Status
-Project is: _complete_
-
 ## Project Components 
-### 1. A project report. [a relative link](Report.pdf)
+### 1. A project report. [a relative link](Report.pdf).
 	It includes the initial idea and inspiration of the project. Data collection with detailed description of data sources. EDA analysis including graphs and results with extensive explanations. Commercial potential. App design prototype. Ethical issues. Conclusions. References.
-### 2. Jupyter Notebook. 
+### 2. Jupyter Notebook. [a relative link](Mood_Analysis.ipnb). This python notebook includes all the relative code.
 ### 3. Dataset. 
 
 ## Room for Improvement
