@@ -32,9 +32,9 @@ One of the application of this project is to provide some insights in order to i
 Another use case is primarily aimed at identifying the user’s potential depression.
 
 ## Project Components 
-#### 1. A project report. [a relative link](Report.pdf). It includes the initial idea and inspiration of the project. Data collection with detailed description of data sources. EDA analysis including graphs and results with extensive explanations. Commercial potential. App design prototype. Ethical issues. Conclusions. References.
-#### 2. Jupyter Notebook. [a relative link](Mood_Analysis.ipynb). This python notebook includes all the relative code. All of the experiments including EDA, data encoding, feature engineering, synthesising additinal data, visualisations, machine learning. 
-#### 3. Dataset. [a relative link](personal_data_merged.csv) The original dataset that is being used in the Jupyter notebook. Detailed data description. 
+#### 1. A project report. [report](Report.pdf). It includes the initial idea and inspiration of the project. Data collection with detailed description of data sources. EDA analysis including graphs and results with extensive explanations. Commercial potential. App design prototype. Ethical issues. Conclusions. References.
+#### 2. Jupyter Notebook. [jupyter notebook](Mood_Analysis.ipynb). This python notebook includes all the relative code. All of the experiments including EDA, data encoding, feature engineering, synthesising additinal data, visualisations, machine learning. 
+#### 3. Dataset. [dataset](personal_data_merged.csv) The original dataset that is being used in the Jupyter notebook. Detailed data description. 
 
 ## Room for Improvement
 My project started with a hypothesis about whether it is possible to make a person happier with the help of AI. I found this question quite childish and was relatively sceptical about the results. Nevertheless, the results of my research showed that this is a rather serious problem that affects millions of people, because even a prolonged state of apathy can lead to more severe mental illnesses, including depression.
