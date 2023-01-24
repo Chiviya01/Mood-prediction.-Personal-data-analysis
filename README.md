@@ -34,7 +34,8 @@ Another use case is primarily aimed at identifying the user’s potential depres
 ## Project Components 
 1. [**Project Report**](Report.pdf). It includes the initial idea and inspiration of the project. Data collection with detailed description of data sources. EDA analysis including graphs and results with extensive explanations. Commercial potential. App design prototype. Ethical issues. Conclusions. References.
  2. [**Jupyter Notebook**](Mood_Analysis.ipynb). This python notebook includes all the relative code. All of the experiments including EDA, data encoding, feature engineering, synthesising additinal data, visualisations, machine learning. The 
-3. **Dataset**. I am not providing the original dataset that is being in the notebook as it contains my personal data. The EDA of the dataset with explanatory comments about dataset context are presented in the notebok. The dataset originally contains data for 76 days and has 46 attributes.
+3. **Dataset**. I am not providing the original dataset that is being used in this project as it contains my personal data. The EDA of the dataset with self explanatory comments regarding dataset context are presented in the Jupyter Notebook. The dataset originally contains data for 76 days. Dataset has 46 following attributes:
+
 ![Screenshot 2023-01-24 at 23 39 23](https://user-images.githubusercontent.com/115179693/214445321-5cbd2574-dc93-4c06-8930-fb4d7d69a99f.png)
 
 ## Room for Improvement
