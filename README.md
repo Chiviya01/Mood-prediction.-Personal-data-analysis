@@ -14,7 +14,7 @@ Project is: _complete_
 * [Room for Improvement](#room-for-improvement)
 
 ## General Information
-In this project, I tried to define happiness and depression from a more scientific point of view. 
+In this project, I tried to define happiness and depression from a more scientific point of view. Our phone contains an enormous amount of our personal data that is being continuously collected on daily basis. I decided to check if with this personal data it would be possible to improve my mental health trough Data Analysis. Another question that I am answering in this project 'Is it possible to predict a mood state trough ML?'.
 Since our mood affects our productivity at work or school, our communication with others, and of course our health I decided to undertake this project.
 I completed this research project by predicting mood states by using various ML models. These models were trained on my personal data which included the most important factors influencing our mood. (Weather, physical actvity, nutrition, social life, stress, menstrual cycle and some others). 
 To collect the data I used different data sources.
@@ -24,7 +24,6 @@ To collect the data I used different data sources.
 4. Smart Scales (Renpho)
 5. Google Calendar
 6. Historical weather data (Met Éireann)
-My dataset in the end had data only for 76 days.
 
 ### The purpose of the project
 The initial idea of this project was to outline the factors that could possibly affect the mood state. The main goal was to find out what can be changed in the everyday lifestyle to become happier and decrease the risk of mental illnesses.
