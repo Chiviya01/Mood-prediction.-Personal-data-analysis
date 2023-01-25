@@ -1,4 +1,4 @@
-# Mood predictions based on personal data analytics. <img src="https://as2.ftcdn.net/v2/jpg/03/08/12/65/1000_F_308126573_fDAWMDCQVNzBsnXgqr2ldt8MrJBIun3P.jpg" width='45' height='45'/>
+# Mood predictions based on personal data analytics.
 
 #### Python; AutoML; Research
 ---
